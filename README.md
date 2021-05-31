@@ -1,1 +1,1 @@
-# ethcid
+# ethcid project
